@@ -46,7 +46,7 @@ const App = () => {
       <div className='input-search-container'>
         <input
           type="text"
-          placeholder="Search users"
+          placeholder="Search for influencers"
           value={searchQuery}
           onChange={handleInputChange}
         />
